@@ -1,7 +1,7 @@
 # 무역영어 CBT — iPhone PWA / GitHub Pages
 
 ## 빠른 배포
-1. GitHub에서 새 **Public** repository 생성 (예: `trade-english-cbt`).
+1. GitHub에서 새 Public repository 생성 (예: `trade-english-cbt`).
 2. 이 ZIP을 **압축 해제하고 내부 파일과 폴더 자체**를 저장소 최상위 경로에 업로드합니다. ZIP 파일 하나만 올리지 마세요.
 3. `Settings` → `Pages` → `Build and deployment` → `Source: Deploy from a branch` → `main / (root)` → `Save`.
 4. `https://사용자명.github.io/trade-english-cbt/` 접속 후 아이폰 Safari의 **공유 → 홈 화면에 추가**를 누릅니다.
